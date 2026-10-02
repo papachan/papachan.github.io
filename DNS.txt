@@ -1,1 +1,1 @@
-clojars-papachan
+clojars papachan
